@@ -1,22 +1,13 @@
-# Final manuscript figures
+# Figure manifest
 
-This directory contains the five figure PNG files corresponding to the figures embedded in the manuscript:
+The repository contains only the five final figure files corresponding to the figures embedded in the manuscript.
 
-1. `Figure1_dataset_provenance_and_reconstruction_evidence_chain.png`
-2. `Figure2_identifier_harmonization_and_overlap_sensitivity.png`
-3. `Figure3_directionality_and_independent_validation.png`
-4. `Figure4_internal_auc_versus_cross_disease_transportability.png`
-5. `Figure5_claim_downgrade_decision_tree.png`
+| Manuscript figure | Repository file | Manuscript content |
+|---|---|---|
+| Figure 1 | `figures/final/Figure1_dataset_provenance_and_reconstruction_evidence_chain.png` | Dataset provenance and reconstruction evidence chain |
+| Figure 2 | `figures/final/Figure2_identifier_harmonization_and_overlap_sensitivity.png` | Identifier harmonization and overlap sensitivity |
+| Figure 3 | `figures/final/Figure3_directionality_and_independent_validation.png` | Directionality and independent validation |
+| Figure 4 | `figures/final/Figure4_internal_auc_versus_cross_disease_transportability.png` | Internal AUC versus cross-disease transportability |
+| Figure 5 | `figures/final/Figure5_claim_downgrade_decision_tree.png` | Claim downgrade decision tree |
 
-These figure files match the manuscript's five-figure structure: dataset provenance/reconstruction, identifier harmonization/overlap sensitivity, directionality/validation, AUC transportability, and final claim downgrade.
-
-
-## Manuscript-matched figures
-
-The repository includes five final figure files in `figures/final/` corresponding to the figures embedded in the manuscript:
-
-- Figure 1: dataset provenance and reconstruction evidence chain
-- Figure 2: identifier harmonization and overlap sensitivity
-- Figure 3: directionality and independent validation
-- Figure 4: internal AUC versus cross-disease transportability
-- Figure 5: claim downgrade decision tree
+Older draft/journal-style figure exports that did not correspond one-to-one to the manuscript's five embedded figures were removed from `figures/final/`.
