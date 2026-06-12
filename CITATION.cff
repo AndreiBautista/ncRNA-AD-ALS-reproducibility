@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript."
+title: "Reproducibility Stress-Testing of an AD-ALS ncRNA Biomarker Signature"
+authors:
+  - family-names: Bautista
+    given-names: Andrei Lyle
+repository-code: "https://github.com/AndreiBautista/ncRNA-AD-ALS-reproducibility"
+keywords:
+  - Alzheimer disease
+  - amyotrophic lateral sclerosis
+  - non-coding RNA
+  - reproducibility
+  - transcriptomics
+  - biomarker discovery
+license: MIT
